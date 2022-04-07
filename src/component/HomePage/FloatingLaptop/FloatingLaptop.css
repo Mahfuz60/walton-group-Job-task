@@ -1,0 +1,30 @@
+.floatingLaptop-bg {
+  padding: 0px;
+  background-image: url(../../../asset/images/laptop2.png);
+  background-size: cover;
+  height: 120vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.floatingLaptop h1 {
+  color: white;
+}
+.floatingLaptop p {
+  color: rgb(161, 159, 159);
+  font-size: 14px;
+}
+
+.laptop-top h6 {
+  color: rgb(146, 145, 145);
+}
+.laptop-bottom {
+  margin-top: 14rem;
+}
+.laptop-bottom h5 {
+  color: rgb(146, 145, 145);
+}
+.laptop-bottom p {
+  color: rgb(146, 145, 145);
+}

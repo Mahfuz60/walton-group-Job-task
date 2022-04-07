@@ -1,0 +1,15 @@
+.footer-bg {
+  background-color: rgba(70, 69, 69, 0.945);
+}
+.footer-header h6 {
+  color: rgb(250, 246, 246);
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+.footer-text p {
+  line-height: 1rem;
+  color: rgb(159, 161, 165);
+  text-transform: uppercase;
+}
+

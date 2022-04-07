@@ -1,0 +1,21 @@
+.nav-logo {
+  width: 40px;
+  height: 40px;
+  margin-left: 2rem;
+  color: rgb(253, 249, 249);
+  border-radius: 50%;
+}
+
+.navbar-bg {
+  background-color: #000000;
+}
+.navbar-collapse ul {
+  justify-content: left;
+  justify-items: left;
+  margin-left: 6rem;
+}
+.navbar-collapse ul li {
+  color: rgb(212, 209, 209);
+  margin-right: 2rem;
+  font-weight: bold;
+}
