@@ -14,7 +14,7 @@ const Processor = ({ scollYHeight }) => {
       array.map((item, index) => {
         return setTimeout(() => {
           setProcessorImg(item);
-        }, 70 * index);
+        }, 50 * index);
       });
     }
   }, [scollYHeight]);

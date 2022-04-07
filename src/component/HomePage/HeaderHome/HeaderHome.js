@@ -15,7 +15,7 @@ const HeaderHome = ({ scollYHeight }) => {
       array.map((item, index) => {
         return setTimeout(() => {
           setImag(item);
-        }, 30 * index);
+        }, 10 * index);
       });
     }
   }, [scollYHeight]);

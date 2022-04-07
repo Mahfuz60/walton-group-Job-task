@@ -13,7 +13,7 @@ const LaptopMobility = ({ scollYHeight }) => {
       array.map((item, index) => {
         return setTimeout(() => {
           setImg(item);
-        }, 70 * index);
+        }, 50 * index);
       });
     }
   }, [scollYHeight]);
